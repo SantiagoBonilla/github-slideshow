@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-A new commit from my local github-slides/new-test
+"the beaner's in, the tooter's out!"
 Use the left arrow to go back!
